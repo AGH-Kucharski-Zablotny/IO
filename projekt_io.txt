@@ -1,0 +1,48 @@
+1. strona tytułowa (imie nazwisko rok)
+2. streszczenie projektu na 1/3 strony (opis funkcjonalny)
+3. lista bodźców zewnętrznych z uwzględeniem wszystkigo
+4. diagram kontekstowy
+5. diagram/model dfd z dekompozycją
+6. model erd
+7. diagramy std z dekompozycją
+8. data dictionary
+9. psc - process specification - specyfikacja procesów atomowych
+
+OK = 0,33 * oceny_czastkowe + 0,66 * ocena_projekt
+
+dość obowiazkowa obecność XD
+
+projekt do końca semestru
+
+coś mieć zrobione do następnego razu (podobno powie co XD)
+
+ocena cząstkowa to ocena z bieżącego postępu nad projektem
+
+Złote cytaty:
+"Ja przepraszam ale pół ghodziny spałem"
+"- Czy obecność jest obowiązkowa? - dosć"
+"jakieś pytania?"
+
+Tematy:
+1) Marina - czarter, cumowanie, system rezerwacji i obsługi płatność gotówką kartą paragony, sprawdzanie przez bosmana, wysłanie do naprawy, badanie satysfakcji, stali klienci
+-> 2) Dolinka narciarska - wyciągi, sprzedaż karnetów godzinnych i punktowe, faktury paragony stali klienci seriws, <-
+3) system rezerwacji w małym hotelu albo porzychodni
+4) aqua park - to samo co narty tylko an basenie
+5) inteligentlny pistolet - strzelamy sie, nie tylko strzela ale też organizuje pomoc dla poszkodowanego, ściaga policję i pogotowie dookoła i ściąga to, przez smartwatch, zawiadamia kwaterę główną, nawigacja, wszystko jest w smartwatchu a dookoła na smartwatcha przychodzi do innego policjanta
+6) intelignetne śmieci XD a raczej ich zbieranie. Jak się koszt zapełnia to wysyła sygnał do centrali i układają sobie trasę i zbierają te kosze, czujnik temperatury żeby też zabrać jak za duza, wystawiamy złom jeszcze i to idzie do centrali i mają zabrać (nietypowe odpady)
+7) mapa hałasu - czujniki rozlokowane po mieście i robią hitmapę hałasu dla miasta indoor i outdoor, na smartphone apka i ona mierzy hałas też i dorzuca do systemu dane
+8) apteka
+9) system ostrzegania przed pożarami w lesie - na podstawie czujników w lesie i jak jakieś dymy albo zbyt sucho to zagrożenie i idzie do służb
+10) Lokalizacja w pomieszczeniach zamkniętych - lokalizacja po routerach wifi
+11) własny uzgodniony z prowadzącym
+12) intelignenta farma zwierząt - jak się zbliza zwierze do koryuta to sypie sie to co dane zwierze chce
+
+Wyrzucić myślenie algorytmicznie, myślimy analitycznie, myślimy co jest robione a nie jak
+
+na następny raz krótkie streszczenie, sygnały, diagram konteksttowy i dfd
+
+
+Następny raz: 23.11.2018 - tytułowa, streszczenie, sygnały zew., diagram kontekstowy i trochę diagramów dfd. 
+ Dowolny typ = papierowy lub elektorniczny: visio jest, draw.io. Ma być model elo. Na laptopie moze sobie oglądać
+ albo wydrukować. Ważne by mieć po prostu. 
+

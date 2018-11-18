@@ -1,0 +1,18 @@
+Streszczenie systemu
+
+Celem systemu jest zapewnienie pracownikom oraz klientom kompleskowej obsługi w zakresie sprzedaży karnetów
+wjazdowych na stacji narciarskiej oraz serwisu i wypożyczenia sprzętu zimowego. W celu 
+utrzymania najwyzszych standardów obsługi klientów przeprowadzane są ankiety zadowolenia.
+
+Klient za pomocą systemu internetowego lub poprzez zakup w okienku sprzedaży może nabyć wybrane przez siebie
+karnety wjazdowe - punktowe lub czasowe. Przy zakupie klient określa typ karnetu z puli dostępnych opcji sprzedaży 
+tj. punktowy lub czasowy określony biznesowo. Klient ma do wyboru płatność gotówką, kartą lub przelewem. Po zaksięgowaniu
+wpłaty klient otrzymuje wybrany przez siebie karnet oraz potwierdzenie transakcji w postaci rachunku lub faktury. 
+W przypadku kupna karnetu drogą elektroniczną karnet zostaje przypisany do osobistego karnetu lub w przypadku zakupu w punkcie 
+sprzedaży na nośnik magnetyczny jednorazowy. Jeżeli klient korzysta z osobistego nośnika karnetu zarejestrowanego
+w systemie, zostaje uprawniony do skorzystania ze zniżki 10% przy zakupie karnetu czasowego.
+W systemie elektronicznym oraz w punkcie wypożyczeń istnieje możliwość wypożyczenia sprzętu zimowego oraz serwisu 
+własnych akcesoriów. Klient określa szczegóły takie jak czas wypożyczenia, rodzaj serwisu, ilość pobranego sprzętu.
+
+Losowo wybrani klienci zostają poproszeni o wypełnienie ankiety zadowolenia z jakości świadczonych usług. Wyniki
+z ankiet zostają przekazane do systemu oraz są dostępne do analizy przez analityków stacji narciarskiej.

@@ -1,0 +1,14 @@
+Sygnały zewnętrzne
+
+1. Wypełnienie formularza zakupu karnetu
+2. Wypełnienie formularza wypożyczenia sprzętu
+3. Wypełnienie formularza serwisu sprzętu
+4. Złożenie zamówienia 
+5. Przyjęcie zamówienia do systemu
+6. Wybór potwierdzenia zakupu
+7. Wybór metody płatności
+8. Zaksięgowanie płatności
+9. Rozpoczęcie czasu świadczenia usługi
+10. Zakończenie czasu świadczenia usługi
+11. Realizacja serwisu
+12. Przeprowadzenie ankiety satysfakcji
