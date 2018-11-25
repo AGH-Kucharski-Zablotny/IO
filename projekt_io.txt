@@ -46,3 +46,5 @@ Następny raz: 23.11.2018 - tytułowa, streszczenie, sygnały zew., diagram kont
  Dowolny typ = papierowy lub elektorniczny: visio jest, draw.io. Ma być model elo. Na laptopie moze sobie oglądać
  albo wydrukować. Ważne by mieć po prostu. 
 
+
+LATEX: https://www.overleaf.com/8714481786zchktmsgjpjg
