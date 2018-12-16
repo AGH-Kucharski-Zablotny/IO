@@ -48,3 +48,6 @@ Następny raz: 23.11.2018 - tytułowa, streszczenie, sygnały zew., diagram kont
 
 
 LATEX: https://www.overleaf.com/8714481786zchktmsgjpjg
+
+Następne spotkanie: 14.12.2018 - DFD wszystkie, ERD, STD zacząć, zaplanować dekompozycję (moze być w wielu miejscach różne miejsca) na nastepne
+Do poprawy: streszczenie bardziej rzeczowo, sygnały mają być krótkie - zamiast wypełnienie formularza dać żądanie wypełnienia formularze
